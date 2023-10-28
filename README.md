@@ -4,12 +4,14 @@ This eLearning portal is the best learning portal for students and other profess
 The main purpose of this project is to develop electronic learning management system for users/students, by changing manual reading/books into digital system. The system allows Students to get courses easily and clearly and understand their needs.
 
 The scope of this project is to develop “E Learning portal”, which can improve the current learning process. In order to achieve the objectives within time constraints, the scope of this project covers the following:
+
       	Registration to be a member
       	Get Material/resources
       	Take an Assessment 
       	Provide course materials
 
 its significance is
+
       	Reduce costs and time saving
       	Have timely and well informed system
       	It prevents to students from stress and confusion
